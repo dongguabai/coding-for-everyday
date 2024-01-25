@@ -5,3 +5,8 @@
 ## 工具列表
 
 - 图片压缩工具（`ImageCompressor`）：一个简单的 Java Swing 应用，可以通过拖拽和滑动条来压缩图片。
+
+## 游戏列表
+
+- 五子棋（`Gomoku`）
+- 黄金矿工（`GoldMiner`）：进行中
