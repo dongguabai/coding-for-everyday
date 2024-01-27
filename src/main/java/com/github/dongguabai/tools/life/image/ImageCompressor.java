@@ -1,4 +1,4 @@
-package com.github.dongguabai.tools.image;
+package com.github.dongguabai.tools.life.image;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
