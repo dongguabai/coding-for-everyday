@@ -1,4 +1,4 @@
-# coding-for-everyday
+# Coding-For-Everyday
 
 这个仓库包含一系列用于日常生活和开发的实用编程工具。
 
