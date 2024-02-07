@@ -1,4 +1,4 @@
-package com.github.dongguabai.games;
+package io.github.dongguabai.games;
 
 import javax.swing.*;
 import java.awt.*;
