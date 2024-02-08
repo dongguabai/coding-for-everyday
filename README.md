@@ -4,11 +4,11 @@
 
 ## 日常工具
 
-- `ImageCompressor`：一个简单的 Java Swing 应用，可以通过拖拽和滑动条来压缩图片。
+- `ImageCompressor`：一个简单的 Java Swing 应用，可以通过拖拽和滑动条来压缩图片
 
 ## 开发工具
 
-- `cpu_watch_dog.sh`：CPU看门狗是一个脚本，当CPU使用率高时自动保存堆栈信息，帮助追踪和解决问题。
+- `cpu_watch_dog.sh`：CPU看门狗是一个脚本，当CPU使用率高时自动保存堆栈信息，帮助追踪和解决问题
 
 ## 游戏列表
 
